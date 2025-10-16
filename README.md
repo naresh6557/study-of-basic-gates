@@ -87,11 +87,11 @@ endmodule
 
 
 **RTL realization Output:** 
-<img width="1686" height="761" alt="1" src="https://github.com/user-attachments/assets/86ef99de-9f20-444d-98b6-221cb0e364b9" />
+<img width="1033" height="512" alt="image" src="https://github.com/user-attachments/assets/e0d734c1-bbc8-4130-bb62-fa8882a9a271" />
 
 
 **RTL**
-<img width="1403" height="795" alt="2" src="https://github.com/user-attachments/assets/8c5b30b1-aaf3-40f6-9e56-935eafa0305e" />
+<img width="788" height="612" alt="Screenshot 2025-10-16 140139" src="https://github.com/user-attachments/assets/8c412d95-52d2-4d3d-8b60-c5718decf2c8" />
 
 
 **Result:**
