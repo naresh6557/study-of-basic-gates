@@ -101,6 +101,7 @@ endmodule
 
 
 **Result:**
+
 Thus the truth table of logic gate are verified using Quartus II using Verilog programming.
 
 
